@@ -1,0 +1,1 @@
+UPDATE main SET ChiefID=2 WHERE PersonID = 0;
